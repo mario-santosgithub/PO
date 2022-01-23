@@ -1,0 +1,13 @@
+/BadEntryException.java/1.1/Sun Sep 26 14:44:29 2021//
+/DuplicateKeyException.java/1.1/Sat Oct 23 14:22:45 2021//
+/ImportFileException.java/1.1/Sun Sep 26 14:44:29 2021//
+/InvalidDaysDateException.java/1.1/Thu Oct 21 19:03:12 2021//
+/MissingFileAssociationException.java/1.1/Sun Sep 26 14:44:29 2021//
+/UnavailableFileException.java/1.1/Sun Sep 26 14:44:29 2021//
+/UnknownKeyException.java/1.2/Wed Oct 27 14:41:15 2021//
+/UnknownProductException.java/1.1/Fri Nov  5 11:48:20 2021//
+/ProductWithoutBatchesException.java/1.1/Sat Nov  6 18:10:12 2021//
+/UnknownTransactionException.java/1.1/Sat Nov  6 18:10:12 2021//
+/NotPossibleFabricateException.java/1.1/Sun Nov  7 15:21:38 2021//
+/UnavailableProductAmountException.java/1.2/Sun Nov  7 16:51:49 2021//
+D
